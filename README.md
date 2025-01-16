@@ -22,6 +22,7 @@ Here those top departments are selected and shown.
 
 
 There was some really bad performing departmens in the data. The suprising thing was there is even one with negative amount of sales. Something mysterious is happening in Department 47.
+
 ![newplot](https://github.com/user-attachments/assets/40f9279d-d689-4640-a00d-37b013e08181)
 
 
