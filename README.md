@@ -8,6 +8,8 @@ First thing we notice is the high amount of sales around 26th ov November and 30
 
 Here we can see which days are officially holidays in the data. The week before December 31 st, there is huge drop in sales despite it being a holiday , suggesting a pattern of avoiding purchases by customers right before the new year.
 
+![newplot](https://github.com/user-attachments/assets/cfec1d07-69b3-46c6-ae2b-22db56bd3d66)
+
 ![newplot](https://github.com/user-attachments/assets/b3d2c9f3-d881-42df-b6d9-425858fe6b16)
 
 In this figure we can see the sales across departments and all 3 years. We can already see that some departments make much bigger share of the sales like number 92 , 95 , 38 , 72 , 40 and 2.
