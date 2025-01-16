@@ -57,5 +57,11 @@ And here we can see the correlation between markdowns and holidays.
 
 ![newplot](https://github.com/user-attachments/assets/e6fd74c7-927e-4943-8475-d6efe3b1facd)
 
+
+Predictive modelling shows that sales will continue at the same pace until February 2013 with extreme accuracy and then it gets less accurate with time.
+
+![image](https://github.com/user-attachments/assets/b7d48d4e-91c9-4453-9bd9-ed4e85677b3b)
+
+
 If available more analysis to follow.
 
