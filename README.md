@@ -61,11 +61,11 @@ And here we can see the correlation between markdowns and holidays.
 Predictive modelling shows that sales will continue at the same pace until February 2013 with extreme accuracy and then it gets less accurate with time.
 
 ![image](https://github.com/user-attachments/assets/b7d48d4e-91c9-4453-9bd9-ed4e85677b3b)
-
-      date         yhat         yhat_lower     yhat_upper
-50 2012-11-11  17062.932356  -14874.911979   49437.122910
-51 2012-11-18  17041.858674  -18056.249778   47947.681672
-52 2012-11-25  17020.784992  -18913.653323   51370.671329
+|date|yhat||yhat_lower|yhat_upper|
+|---|---|---|---|        
+50 2012-11-11 | 17062.932356 | -14874.911979  | 49437.122910
+51 2012-11-18 | 17041.858674 | -18056.249778  | 47947.681672
+52 2012-11-25 | 17020.784992 | -18913.653323  | 51370.671329
 53 2012-12-02  16999.711311  -22080.875210   54644.800123
 54 2012-12-09  16978.637629  -23030.389169   56661.777037
 55 2012-12-16  16957.563947  -27128.197449   62023.629759
