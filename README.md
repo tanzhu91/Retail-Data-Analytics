@@ -60,8 +60,8 @@ And here we can see the correlation between markdowns and holidays.
 
 Since weekly sales data is available only until October 2012 , we can see when plotted all together the effects MArkdowns and Holidays are having on them. Particaularly around the period of 25 November 2011 , from December 9 to December 30 - 2011 and around February 10 , 2012 and April 6 , 2012. Suprisingly even though there is a huge Markdown number 2 around December 30, 2011 and after , sales are dropping and quite low in that period.
 
-![newplot](https://github.com/user-attachments/assets/9873930d-2181-4878-9878-1c49ff42c692)
 
+![newplot](https://github.com/user-attachments/assets/3af6299a-5be6-4538-a2fd-83b179905290)
 
 
 Predictive modelling shows that sales will continue at the same pace until February 2013 with extreme accuracy and then it gets less accurate with time.
