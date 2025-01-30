@@ -49,7 +49,7 @@ Here correlation between size of stores and weekly sales shows clearly there is 
 ![newplot](https://github.com/user-attachments/assets/d9fd3189-a5d0-42d4-bdc7-7efca57fea60)
 
 
-In this graph we can see the dates when promotional markdowns were available. A lot of them are right before holidays or around holiday times.
+In this graph we can see the dates when promotional markdowns were available. A lot of them have a rise right before holidays or at holiday times.
 
 
 ![newplot](https://github.com/user-attachments/assets/19c8f870-e533-4829-b6fd-f17e7f5dcf1d)
