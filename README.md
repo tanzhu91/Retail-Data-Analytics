@@ -89,8 +89,20 @@ The best performing department number 92 also shows similar trends around the wi
 
 ![image](https://github.com/user-attachments/assets/19151199-987b-4075-8d9b-22ea9558d683)
 
+|Date        |yhat         |yhat_lower       |yhat_upper       |
+|------------|-------------|-----------------|-----------------|
+|2012-11-11  |91096.08392  |27556.602698     |155299.108173    |
+|2012-11-18  |93491.58790  |26683.066200     |155331.313681    |
+|2012-11-25  |92616.97255  |27624.603418     |156126.876549    |
+|2012-12-02  |91296.73408  |25430.116999     |147471.574248    |
+|2012-12-09  |92020.887835 |30472.697049     |152654.506457    |
+|2012-12-16  |93727.76185  |31967.241653     |155221.349540    |
+|2012-12-23  |93054.49571  |32574.361850     |157994.130737    |
+|2012-12-30  |88642.92735  |25564.696585     |148292.776335    |
+|2013-01-06  |83284.166012 |22881.500197     |149800.266710    |
 
-Store number 14 from the same department is on a downward trend though.
+
+Store number 14 from the same department is on a downward trend.
 
 ![image](https://github.com/user-attachments/assets/0a8dd1c5-d76b-4ba3-b5fc-b68d2b014e64)
 
