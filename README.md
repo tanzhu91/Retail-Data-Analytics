@@ -6,7 +6,7 @@ First thing we notice is the high amount of sales around 26th of November and 30
 
 ![newplot](https://github.com/user-attachments/assets/e5aa2d9d-d972-46d4-90e1-a72baa0ee1a4)
 
-Here we can see which days are officially holidays in the data. The week before December 31 st, there is huge drop in sales despite it being a holiday , suggesting a pattern of avoiding purchases by customers right before the new year.
+Here we can see which days are officially holidays in the data. The week before and after December 31 st, there is huge drop in sales despite it being a holiday , suggesting a pattern of avoiding purchases by customers around the new year.
 
 ![newplot](https://github.com/user-attachments/assets/cfec1d07-69b3-46c6-ae2b-22db56bd3d66)
 
