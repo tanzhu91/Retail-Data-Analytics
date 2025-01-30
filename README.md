@@ -27,7 +27,7 @@ There was some really bad performing departmens in the data. The suprising thing
 ![newplot](https://github.com/user-attachments/assets/40f9279d-d689-4640-a00d-37b013e08181)
 
 
-Here Weekly sales are plotted against type of stores and amount of sales based on holiday or not.
+Here Weekly sales are plotted against type of stores and amount of sales based on holiday or not. We can see store type A has the most holiday sales of all three.
 
 ![newplot](https://github.com/user-attachments/assets/d74e29e3-5157-4309-a883-36a6cce93779)
 
