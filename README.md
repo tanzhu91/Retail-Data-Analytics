@@ -112,7 +112,7 @@ One of the very poorly performing departments number 51 is also on a decline. Re
 ![image](https://github.com/user-attachments/assets/033a658f-37f7-46b2-bfc0-560f87e0067b)
 
 
-Even a "good" performing store from department 51 is on a downward direction.
+Even a "good" performing store from department 51 is on a downward direction. Three spikes in sales can be seen around holiday times and how they are getting less each year.
 
 ![image](https://github.com/user-attachments/assets/53bf6988-a07d-43c4-844b-1ece7a11c98e)
 
