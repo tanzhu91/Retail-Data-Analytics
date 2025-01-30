@@ -1,5 +1,7 @@
 # Retail-Data-Analytics
 
+## The aim of this project is to answer a few key questions. Which departments are leading in sales, which are the leading stores in those departments? The relationship between promotional markdowns and holidays and how that affects sales.
+
 
 
 First thing we notice is the high amount of sales around 26th of November and 30 and 23-24 th December. While November 26 th is an official holiday in the United States 23rd of December is not but it is Christmas time so the high amount of sales that week makes sense.
@@ -110,7 +112,12 @@ Predictive modelling using Prophet shows that sales will continue at the same pa
 | 2013-07-28 | 16283.21    | -326955.46      | 380660.00       |
 
 
+# 🛠️ 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱
 
+### 𝗗𝗮𝘁𝗮 𝗪𝗿𝗮𝗻𝗴𝗹𝗶𝗻𝗴: Python, Pandas
+### 𝗘𝗗𝗔: Pandas
+### 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻s: Plotly Express
+### Predictive Modeling: Prophet
 
 If available more analysis to follow.
 
