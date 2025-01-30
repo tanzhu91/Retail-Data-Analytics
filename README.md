@@ -68,7 +68,8 @@ Since weekly sales data is available only until October 2012 and markdowns start
 
 Predictive modelling using Prophet shows that sales will continue at the same pace until February 2013 with good accuracy and then the uncertainty becomes more with time.
 
-![image](https://github.com/user-attachments/assets/b7d48d4e-91c9-4453-9bd9-ed4e85677b3b)
+![image](https://github.com/user-attachments/assets/1e45cf3a-7dae-42ea-9cc4-23b820306a92)
+
 
 | Date       | yhat        | yhat_lower      | yhat_upper      |
 |------------|-------------|-----------------|-----------------|
