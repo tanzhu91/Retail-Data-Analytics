@@ -24,7 +24,7 @@ Here those top departments are selected and shown.
 
 
 
-There was some really bad performing departmens in the data. The suprising thing was there is even one with negative amount of sales. Something mysterious is happening in Department 47. Sales in the nagative are not possible, recommendations are to check for fraud.
+There was some really bad performing departmens in the data. The suprising thing was there is even one with negative amount of sales. Something mysterious is happening in Department 47. Sales in the negative are not possible, recommendations are to check for fraud.
 
 ![newplot](https://github.com/user-attachments/assets/40f9279d-d689-4640-a00d-37b013e08181)
 
