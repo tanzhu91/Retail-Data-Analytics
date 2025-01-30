@@ -67,7 +67,9 @@ Since weekly sales data is available only until October 2012 and markdowns start
 
 
 Predictive modelling using Prophet shows that combined sales for all departments will continue at the same pace until February 2013 with the same spike and dip around holiday times at the end of 2012, which can be seen as the blue line in the figure.
-![image](https://github.com/user-attachments/assets/1e45cf3a-7dae-42ea-9cc4-23b820306a92)
+
+![image](https://github.com/user-attachments/assets/e1a71c65-0208-410d-a113-0668425b7003)
+
 
 
 | Date       | yhat        | yhat_lower      | yhat_upper      |
@@ -81,6 +83,11 @@ Predictive modelling using Prophet shows that combined sales for all departments
 | 2012-12-23 | 21269.47    | -8594.95        | 51343.91        |
 | 2012-12-30 | 18846.35    | -11763.30       | 46431.90        |
 | 2013-01-06 | 15552.68    | -14793.90       | 43276.53        |
+
+
+The best performing department number 92 also shows similar trends around the winter holiday periods with a spike and even a slight overall increase over time in sales.
+
+![image](https://github.com/user-attachments/assets/19151199-987b-4075-8d9b-22ea9558d683)
 
 
 
