@@ -66,7 +66,7 @@ Since weekly sales data is available only until October 2012 and markdowns start
 ![newplot](https://github.com/user-attachments/assets/3af6299a-5be6-4538-a2fd-83b179905290)
 
 
-Predictive modelling using Prophet shows that combined sales for all departments will continue at the same pace until February 2013 and beyond with the same spike and dip around holiday times at the end of 2012, which can be seen as the blue line in the figure.
+Predictive modelling using Prophet shows that combined sales for all departments will continue at the same pace until February 2013 and beyond with the same spike and dip around holiday times at the end of 2012, which can be seen as the blue line in the figure. Yhat is the predicted amount in this case.
 
 ![image](https://github.com/user-attachments/assets/e1a71c65-0208-410d-a113-0668425b7003)
 
