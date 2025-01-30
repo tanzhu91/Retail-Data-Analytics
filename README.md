@@ -90,6 +90,20 @@ The best performing department number 92 also shows similar trends around the wi
 ![image](https://github.com/user-attachments/assets/19151199-987b-4075-8d9b-22ea9558d683)
 
 
+Store number 14 from the same department is on a downward trend though.
+
+![image](https://github.com/user-attachments/assets/0a8dd1c5-d76b-4ba3-b5fc-b68d2b014e64)
+
+
+One of very poorly performing departments number 51 is also on a decline. Recommendations would be to shut down ineffective departments and concentrate on better performing ones.
+
+![image](https://github.com/user-attachments/assets/033a658f-37f7-46b2-bfc0-560f87e0067b)
+
+
+Even a "good" performing store from department 51 is on a downward direction.
+
+![image](https://github.com/user-attachments/assets/53bf6988-a07d-43c4-844b-1ece7a11c98e)
+
 
 # 🛠️ 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱
 
