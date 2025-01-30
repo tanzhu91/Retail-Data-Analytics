@@ -95,7 +95,7 @@ Store number 14 from the same department is on a downward trend though.
 ![image](https://github.com/user-attachments/assets/0a8dd1c5-d76b-4ba3-b5fc-b68d2b014e64)
 
 
-One of very poorly performing departments number 51 is also on a decline. Recommendations would be to shut down ineffective departments and concentrate on better performing ones.
+One of the very poorly performing departments number 51 is also on a decline. Recommendations would be to shut down ineffective departments and concentrate on better performing ones.
 
 ![image](https://github.com/user-attachments/assets/033a658f-37f7-46b2-bfc0-560f87e0067b)
 
