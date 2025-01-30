@@ -2,7 +2,7 @@
 
 
 
-First thing we notice is the high amount of sales around 26th of November and 30 and 23-24 th December. While November 26 th is an official holiday in the United States 23rd of December is not but it is Christmas time so the high amount of sales the week before that makes sense.
+First thing we notice is the high amount of sales around 26th of November and 30 and 23-24 th December. While November 26 th is an official holiday in the United States 23rd of December is not but it is Christmas time so the high amount of sales that week makes sense.
 
 ![newplot](https://github.com/user-attachments/assets/e5aa2d9d-d972-46d4-90e1-a72baa0ee1a4)
 
