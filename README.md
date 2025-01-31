@@ -1,6 +1,6 @@
 # Retail-Data-Analytics
 
-## The aim of this project is to answer a few key questions. Which departments are leading in sales, which are the leading stores in those departments? The relationship between promotional markdowns and holidays and how that affects sales.
+## The aim of this project is to answer a few key questions. Which departments are leading in sales, which are the leading stores in those departments? The relationship between promotional markdowns and holidays and how that affects sales. What is the future direction of sales for the best performing department and store and for a poorly performing one ?
 
 
 
