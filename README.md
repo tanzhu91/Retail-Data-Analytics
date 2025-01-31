@@ -102,7 +102,7 @@ The best performing department number 92 also shows similar trends around the wi
 |2013-01-06  |83284.166012 |22881.500197     |149800.266710    |
 
 
-Store number 14 from the same department is on a downward trend.
+However the best performing store number 14 from the same department is on a downward trend.
 
 ![image](https://github.com/user-attachments/assets/0a8dd1c5-d76b-4ba3-b5fc-b68d2b014e64)
 
