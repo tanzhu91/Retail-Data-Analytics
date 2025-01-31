@@ -107,14 +107,15 @@ However the best performing store number 14 from the same department is on a dow
 ![image](https://github.com/user-attachments/assets/0a8dd1c5-d76b-4ba3-b5fc-b68d2b014e64)
 
 
-One of the very poorly performing departments number 51 is also on a decline. Recommendations would be to shut down ineffective departments and concentrate on better performing ones.
+One of the badly performing departments number 54 is also on a decline. Two spikes around holiday periods can be seen and the third one as a prediction. Recommendations would be to shut down ineffective departments and concentrate on better performing ones.
 
-![image](https://github.com/user-attachments/assets/033a658f-37f7-46b2-bfc0-560f87e0067b)
+![image](https://github.com/user-attachments/assets/898d1523-d33b-4fb0-b6a2-92e38f08cdcb)
 
 
-Even a "good" performing store from department 51 is on a downward direction. Three spikes in sales can be seen around holiday times and how they are getting less each year. Of course negative sales don't make sense but the model recognizes the downward trend.
+Store 11 from department 54 is on a downward direction approaching zero in the new year.
 
-![image](https://github.com/user-attachments/assets/53bf6988-a07d-43c4-844b-1ece7a11c98e)
+![image](https://github.com/user-attachments/assets/482c9213-d735-41ea-94d5-1d955e02d668)
+
 
 
 # 🛠️ 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱
