@@ -107,7 +107,7 @@ However the best performing store number 14 from the same department is on a dow
 ![image](https://github.com/user-attachments/assets/0a8dd1c5-d76b-4ba3-b5fc-b68d2b014e64)
 
 
-One of the badly performing departments number 54 is also on a decline. Two spikes around holiday periods can be seen and the third one as a prediction. Recommendations would be to shut down ineffective departments and concentrate on better performing ones.
+One of the badly performing departments number 54 is also on a decline. Two spikes around holiday periods can be seen and the third one as a prediction. Recommendations would be to check the reason why ineffective departments are underperforming and also concentrate on boosting better performing ones.
 
 ![image](https://github.com/user-attachments/assets/898d1523-d33b-4fb0-b6a2-92e38f08cdcb)
 
